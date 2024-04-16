@@ -1,0 +1,2 @@
+复制以下链接地址到浏览器下载Arduino IDE软件
+https://www.arduino.cc/en/software
